@@ -1,0 +1,24 @@
+.colomn1 {
+    position: absolute;
+    display: block;
+    left: 5%;
+}
+
+.colomn2 {
+    position: absolute;
+    display: block;
+    left: 45%;
+}
+
+.colomn3 {
+    position: absolute;
+    display: block;
+    left: 85%;
+}
+
+.Header {
+    position: absolute;
+    display: block;
+    left: 40%;
+    clear: both;
+}
