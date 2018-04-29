@@ -14,8 +14,11 @@ fun RBuilder.makePlayingDeck(){
 
         div {
             attrs.title = "Dealer"//добавление атрибутов
-
-            h1 { +"Dealer Cards" }
+            attrs.style = js {
+                display = "flex"
+                padding = "2rem"
+            }
+            h1 { +"Dealer Cards:  " }
             div {
                 attrs.style = js { display = "flex" }
                 cardsUI(3)
@@ -23,9 +26,12 @@ fun RBuilder.makePlayingDeck(){
         }
 
         div {
-
             attrs.title = "Player"
-            h1 { +"Player Cards" }
+            attrs.style = js {
+                display = "flex"
+                padding = "2rem"
+            }
+            h1 { +"Player Cards:  " }
             div {
                 attrs.style = js {
                     display = "flex"

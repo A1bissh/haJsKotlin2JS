@@ -15,7 +15,7 @@ fun RBuilder.cardsUI(numOfCards: Int ): List<ReactElement> {
         div {
             h5 {
                 +"Points: "
-                +createCardsPoints()
+                + createCardsPoints( (( Math.random() * 12 ) + 2 ).toInt() )
             }
             attrs.style = makeCardsBeauty()
 
@@ -36,7 +36,14 @@ fun RBuilder.makeCardsBeauty(): String {
     }
 }
 
-fun createCardsPoints(): String {
-    return ( ( Math.random() * 12 ) + 2 ).toInt().toString()
-}
+fun createCardsPoints(points: Int): String =
+    when {
+        (points < 11) -> points.toString()
+        (points == 11) ->  "J"
+        (points == 12) -> "D"
+        (points == 13) -> "K"
+        (points == 14) -> "A"
+        else -> "0"
+    }
+
 
