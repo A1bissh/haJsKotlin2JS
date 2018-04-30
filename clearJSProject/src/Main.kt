@@ -50,7 +50,7 @@ fun addComponentsByString() {
             <button id="clickMeButton">Click Me</button>
             """
     val root = document.getElementById("mainDiv")
-	    root!!.innerHTML += html
+    root!!.innerHTML += html
 
     val but = document.getElementById("clickMeButton")
     but!!.addEventListener("click", {
@@ -117,7 +117,3 @@ fun addComponentsByKotlinBuildIn() {
     root!!.appendChild(div)
 
 }
-
-
-
-

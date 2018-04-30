@@ -11,14 +11,13 @@ import react.dom.h1
 
 fun RBuilder.makePlayingDeck(){
     div {
-
         div {
             attrs.title = "Dealer"//добавление атрибутов
             attrs.style = js {
                 display = "flex"
                 padding = "2rem"
             }
-            h1 { +"Dealer Cards:  " }
+            h1 { +"Dealer Cards:" }
             div {
                 attrs.style = js { display = "flex" }
                 cardsUI(3)
@@ -31,7 +30,7 @@ fun RBuilder.makePlayingDeck(){
                 display = "flex"
                 padding = "2rem"
             }
-            h1 { +"Player Cards:  " }
+            h1 { +"Player Cards:" }
             div {
                 attrs.style = js {
                     display = "flex"

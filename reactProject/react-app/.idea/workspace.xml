@@ -29,8 +29,8 @@
       <file leaf-file-name="gameUI.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/poker/gameUI.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            <state relative-caret-position="576">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
               <folding>
                 <element signature="e#55#226#0" expanded="true" />
               </folding>
@@ -42,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/poker/cardUI.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="558">
-              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="24" />
+              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
               <folding>
                 <element signature="e#41#200#0" expanded="true" />
               </folding>
@@ -64,8 +64,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/index/card.kt" />
         <option value="$PROJECT_DIR$/src/index/cardUI.kt" />
-        <option value="$PROJECT_DIR$/src/index/index.kt" />
         <option value="$PROJECT_DIR$/src/poker/cardUI.kt" />
+        <option value="$PROJECT_DIR$/src/index/index.kt" />
         <option value="$PROJECT_DIR$/src/poker/gameUI.kt" />
       </list>
     </option>
@@ -113,7 +113,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../clearJSProject" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
@@ -205,7 +205,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.12820514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12820514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -491,7 +491,7 @@
     <entry file="file://$PROJECT_DIR$/src/poker/cardUI.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="24" />
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
           <folding>
             <element signature="e#41#200#0" expanded="true" />
           </folding>
@@ -500,8 +500,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/poker/gameUI.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="576">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
           <folding>
             <element signature="e#55#226#0" expanded="true" />
           </folding>
