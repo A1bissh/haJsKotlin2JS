@@ -111,6 +111,8 @@ fun addComponentsByKotlinBuildIn() {
 
     }
 
+
+
     div.addClass("colomn3")
 
 

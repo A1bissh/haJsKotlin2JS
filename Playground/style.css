@@ -1,0 +1,64 @@
+body {
+    background-color: #243137;
+    color: #1576c6;
+}
+
+.head {
+    position: absolute;
+    top: 20%;
+    left: 36%;
+}
+
+.target-platform {
+    background-color: #1576c6;
+    height: 10%;
+    width: 15%;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    color: #000000;
+    border: 5px solid #1576c6;
+    border-radius: 10px;
+}
+
+#jvm {
+    left: 10%;
+}
+
+#js {
+    left: 30%;
+}
+
+#junit {
+    left: 50%;
+}
+
+#canvas {
+    left: 70%;
+}
+
+#jvm:hover {
+    background-color: #fff;
+    transition: 1s;
+    border: 5px solid #fff
+}
+
+#js:hover {
+    background-color: #fff;
+    transition: 1s;
+    border: 5px solid #fff
+}
+
+#junit:hover {
+    background-color: #fff;
+    transition: 1s;
+    border: 5px solid #fff
+}
+
+#canvas:hover {
+    background-color: #fff;
+    transition: 1s;
+    border: 5px solid #fff
+}
