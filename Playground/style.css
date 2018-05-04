@@ -42,23 +42,23 @@ body {
 #jvm:hover {
     background-color: #fff;
     transition: 1s;
-    border: 5px solid #fff
+    border: 5px solid #fff;
 }
 
 #js:hover {
     background-color: #fff;
     transition: 1s;
-    border: 5px solid #fff
+    border: 5px solid #fff;
 }
 
 #junit:hover {
     background-color: #fff;
     transition: 1s;
-    border: 5px solid #fff
+    border: 5px solid #fff;
 }
 
 #canvas:hover {
     background-color: #fff;
     transition: 1s;
-    border: 5px solid #fff
+    border: 5px solid #fff;
 }
